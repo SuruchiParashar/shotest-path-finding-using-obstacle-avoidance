@@ -8,3 +8,7 @@ Although various solutions already exist, these solutions are not devoid of prob
 2. No passage between closely spaced obstacles.
 3. Oscillations in the presence of obstacles
 4. Oscillations in narrow passages.
+
+<p align="center">
+  <img src="https://github.com/SuruchiParashar/shotest-path-finding-using-obstacle-avoidance/blob/master/ezgif.com-video-to-gif.gif" />
+</p>
